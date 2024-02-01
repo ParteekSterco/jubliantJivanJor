@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 31 39" width="31" height="39">
+	<title>pdf_icon</title>
+	<defs>
+		<image  width="31" height="39" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB8AAAAnCAMAAADAWWPLAAAAAXNSR0IB2cksfwAAAQhQTFRFDAA0MADPMQDRNwDsDgA8AAAAMQDQMADPNwDrSBD/DAA2TRf+Rg7/EQBKRg7/EABESBD/Rw//NwDtcUX/bkH/LAC8Qwn/jmz+3d3daz7+MADOKwC5KgC1KgC2FgBhrZT/iWX/oIP/m3z/GABmcET/fVX/NADdmXr/n4L/OQD1n4H/Rw//knH/gVv/u6f/YzP/kXD/ckf/aj3/nX//Rg3/SxT/UBv/MQDQMADNc0j/y7v/NwDss5z/uaP+RAv/dEr/YTH+hWD/yLf/iGT/sZn/dEn/noD+vaj/xbT/ckb/VyP+h2P/RQz/o4f/yrr/OgD2MwDaYDD/eE7/tZ7/pov/p4z/ybn/JQCdteRfjQAAAFh0Uk5TQNH/zAsA6v//ywz/ywzKDcrK////////////////gP////+A////////////////////////////////////////////////////////////////////a0++N8QAAAEJSURBVHic3dHZVsIwEAbgKmgKAaoE9beuLC7UDUFFRHEFEVAEUd7/TUylYEnb8d7/Isk532Qm50TTZmbVhMJzk2jzzBM9Ev11LzOdx+K084RBO18waOeLBu1OQbCPRhDOE3F/TzrOY9EpF6nRvrQ8LoiEXb4CrP4czLV1JxubLt/aTmfUUVmX57ADyncB0mWDPdIZkPzD9ynPywdahAuYBzgM9qNjxk5QCHScyqWIUoCf4dzeLmCVL8um1ytXcqmK3DXs3NRUx+3dvYSHR/EE1BvPihelNV9admOzLc+lKe+84q3SnRRXhXh3e0FeaDFvHO+h/zHw4bELWKgRrn9++bLyf//Rh6Rr3wdMNxMY9ImEAAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+	</style>
+	<use id="Background" href="#img1" x="0" y="0"/>
+</svg>

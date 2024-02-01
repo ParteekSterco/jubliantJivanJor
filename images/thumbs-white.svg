@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 61 56" width="61" height="56">
+	<title>best-price@2x</title>
+	<defs>
+		<image  width="61" height="56" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAD0AAAA4CAMAAAB5cQBoAAAAAXNSR0IB2cksfwAAAEtQTFRF////////////////////////////////////////////////////////////////////////////////////////////////////slWHAAAAABl0Uk5TAECv/++fIFAwz5Bgv4DA33B/EPBPP6Cw4IJJ3RYAAAEbSURBVHicxdbrjoMgEAVg2EGkWEGxa/v+T7rFS0VqI3CS7flJ+IIOgYGxs/AfEpU8nXacmnyEKtOCZl60uqIllxLNV00a0sTzdbPpa75uN035dQ91/p+bQFtIU/aehzi/6jvd/qvuEN1QueZXKtWyEhQnueb9G03fb3c5wkMaVoeYbL/ltn3HbxDH9kfjYyo3lWdfWZ6qyT5PrItKm679dTFGQxn6eV1YQLcsHsnRGtLY2hzRhgF6kIj2F3S5tpD2vQXQHNJQ1e7Qf3NENwzRCtIa0uaLevxe1aalS/WDIVpAeunGpbqDdD1pE42m6rkDd9Go1ypubu8xS/OOZs7VkCd+eDX/ejRB1me01MNn/Dh/bLtam8Pcm3XKHwf9IVK9fF/RAAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+	</style>
+	<use id="Background" href="#img1" x="0" y="0"/>
+</svg>

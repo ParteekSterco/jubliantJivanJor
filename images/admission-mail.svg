@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="63" height="63" viewBox="0 0 63 63">
+  <defs>
+    <filter id="Ellipse_9" x="0" y="0" width="63" height="63" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_990" data-name="Group 990" transform="translate(9 -3008.166)">
+    <g transform="matrix(1, 0, 0, 1, -9, 3008.17)" filter="url(#Ellipse_9)">
+      <circle id="Ellipse_9-2" data-name="Ellipse 9" cx="22.5" cy="22.5" r="22.5" transform="translate(9 6)" fill="#ecab2b"/>
+    </g>
+    <g id="Icon_feather-mail" data-name="Icon feather-mail" transform="translate(11.775 3026.87)">
+      <path id="Path_27" data-name="Path 27" d="M5.217,6H22.949a2.223,2.223,0,0,1,2.217,2.217v13.3a2.223,2.223,0,0,1-2.217,2.217H5.217A2.223,2.223,0,0,1,3,21.516V8.217A2.223,2.223,0,0,1,5.217,6Z" transform="translate(-3 -6)" fill="none" stroke="#fff" stroke-width="1"/>
+      <path id="Path_28" data-name="Path 28" d="M25.166,9,14.083,16.758,3,9" transform="translate(-3 -6.783)" fill="none" stroke="#fff" stroke-width="1"/>
+    </g>
+  </g>
+</svg>

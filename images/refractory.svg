@@ -1,0 +1,12 @@
+<svg id="refractory" xmlns="http://www.w3.org/2000/svg" width="34" height="34" viewBox="0 0 34 34">
+  <path id="Path_1035" data-name="Path 1035" d="M240,0h1.992V3.984H240Z" transform="translate(-224.063)" fill="#fff"/>
+  <path id="Path_1036" data-name="Path 1036" d="M240,240h1.992v3.984H240Z" transform="translate(-224.063 -224.063)" fill="#fff"/>
+  <path id="Path_1037" data-name="Path 1037" d="M105,135h3.984v1.992H105Z" transform="translate(-98.027 -126.035)" fill="#fff"/>
+  <path id="Path_1038" data-name="Path 1038" d="M345,135h3.984v1.992H345Z" transform="translate(-322.09 -126.035)" fill="#fff"/>
+  <path id="Path_1039" data-name="Path 1039" d="M0,0H3.984V1.992H0Z" transform="translate(9.183 16.299) rotate(-45)" fill="#fff"/>
+  <path id="Path_1040" data-name="Path 1040" d="M0,0H3.984V1.992H0Z" transform="translate(20.453 5.032) rotate(-45)" fill="#fff"/>
+  <path id="Path_1041" data-name="Path 1041" d="M0,0H1.992V3.984H0Z" transform="translate(20.452 14.892) rotate(-45)" fill="#fff"/>
+  <path id="Path_1042" data-name="Path 1042" d="M0,0H1.992V3.984H0Z" transform="translate(9.184 3.623) rotate(-45)" fill="#fff"/>
+  <circle id="Ellipse_49" data-name="Ellipse 49" cx="4.338" cy="4.338" r="4.338" transform="translate(12.662 5.07)" fill="#fff"/>
+  <path id="Path_1043" data-name="Path 1043" d="M31.012,332H2.988A2.992,2.992,0,0,0,0,334.988v5.977a2.992,2.992,0,0,0,2.988,2.988H31.012A2.992,2.992,0,0,0,34,340.965v-5.977A2.992,2.992,0,0,0,31.012,332ZM6.043,339.969H4.051v-3.984H6.043Zm3.984,0H8.035v-3.984h1.992Zm3.984,0H12.02v-3.984h1.992Zm3.984,0H16v-3.984H18Zm3.984,0H19.988v-3.984H21.98Zm3.984,0H23.973v-3.984h1.992Zm3.984,0H27.957v-3.984h1.992Z" transform="translate(0 -309.953)" fill="#fff"/>
+</svg>

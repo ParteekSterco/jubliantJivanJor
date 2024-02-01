@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="91"
+  height="91" viewBox="0 0 91 91">
+  <defs>
+    <linearGradient id="linear-gradient" x1="2.079" y1="2.727" x2="-0.105" y2="-0.855"
+      gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#2e3192" />
+      <stop offset="1" stop-color="#ed1c24" />
+    </linearGradient>
+    <filter id="Ellipse_16" x="0" y="0" width="91" height="91" filterUnits="userSpaceOnUse">
+      <feOffset dy="9" input="SourceAlpha" />
+      <feGaussianBlur stdDeviation="6" result="blur" />
+      <feFlood flood-opacity="0.161" />
+      <feComposite operator="in" in2="blur" />
+      <feComposite in="SourceGraphic" />
+    </filter>
+  </defs>
+  <g id="Group_3656" data-name="Group 3656" transform="translate(12431 13412)">
+    <g transform="matrix(1, 0, 0, 1, -12431, -13412)" filter="url(#Ellipse_16)">
+      <g id="Ellipse_16-2" data-name="Ellipse 16" transform="translate(18 9)" stroke="#fff"
+        stroke-width="2" fill="url(#linear-gradient)">
+        <circle cx="27.5" cy="27.5" r="27.5" stroke="none" />
+        <circle cx="27.5" cy="27.5" r="26.5" fill="none" />
+      </g>
+    </g>
+    <path id="Icon_open-video" data-name="Icon open-video"
+      d="M1.323,0A1.318,1.318,0,0,0,0,1.3V11.744a1.318,1.318,0,0,0,1.323,1.3H14.556a1.3,1.3,0,0,0,1.323-1.3V7.829l2.647,2.61h2.647V2.61H18.526L15.879,5.22V1.3A1.3,1.3,0,0,0,14.556,0Z"
+      transform="translate(-12396 -13382)" fill="#fff" />
+  </g>
+</svg>

@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "jubliantJivanJor", "..\jubliantJivanJor", "{7288531A-BBE2-4296-BEBA-9B5BF22DC5F4}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/jubliantJivanJor"
+		Debug.AspNetCompiler.PhysicalPath = "..\jubliantJivanJor\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\jubliantJivanJor\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/jubliantJivanJor"
+		Release.AspNetCompiler.PhysicalPath = "..\jubliantJivanJor\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\jubliantJivanJor\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "57639"
+	EndProjectSection
+EndProject
+Project("{2CFEAB61-6A3B-4EB8-B523-560B4BEEF521}") = "jubliantJivanJor_deploy", "\\wserver\DEPLOY\jubliantJivanJor_deploy\jubliantJivanJor_deploy.wdproj", "{5DB174B7-D3BC-4FCA-8972-3E6C3074A541}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7288531A-BBE2-4296-BEBA-9B5BF22DC5F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7288531A-BBE2-4296-BEBA-9B5BF22DC5F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7288531A-BBE2-4296-BEBA-9B5BF22DC5F4}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{7288531A-BBE2-4296-BEBA-9B5BF22DC5F4}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{5DB174B7-D3BC-4FCA-8972-3E6C3074A541}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DB174B7-D3BC-4FCA-8972-3E6C3074A541}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DB174B7-D3BC-4FCA-8972-3E6C3074A541}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DB174B7-D3BC-4FCA-8972-3E6C3074A541}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

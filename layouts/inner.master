@@ -1,0 +1,133 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="inner.master.cs" Inherits="layouts_inner" %>
+
+<!DOCTYPE html>
+<%@ Register Src="~/usercontrols/mainmenu.ascx" TagName="mainmenu" TagPrefix="uc1" %>
+<%@ Register Src="~/usercontrols/footer.ascx" TagName="footer" TagPrefix="uc2" %>
+<%@ Register Src="~/usercontrols/seosection.ascx" TagName="seosection" TagPrefix="uc3" %>
+<%@ Register Src="~/usercontrols/breadcrumbs.ascx" TagName="breadcrumbs" TagPrefix="uc4" %>
+<html>
+<head runat="server">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title></title>
+    <uc3:seosection ID="seosection1" runat="server" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="/css/bootstrap.css">
+    <link rel="stylesheet" href="/css/slick.css">
+    <link rel="stylesheet" href="/css/comman.css">
+    <link rel="stylesheet" href="/css/header.css">
+    <link rel="stylesheet" href="/css/footer.css">
+    <link rel="stylesheet" href="/css/aos.css">
+    <link rel="stylesheet" href="/css/jquery.fancybox.min.css">
+    <link rel="stylesheet" href="/css/inner.css">
+    <link rel="stylesheet" href="/css/inner-responsive.css">
+    <link href="/css/dynamic.css" rel="stylesheet" />
+    <link href="/css/owl.carousel.min.css" rel="stylesheet" />
+    <link rel="shortcut icon" type="image/x-icon" href="/images/favicon.png">
+    <style type="text/css">
+        .image-one {
+            --ratio: 100/61;
+            /* height:100%; */
+        }
+
+        .image-container img {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+        }
+
+        .image-container {
+            position: relative;
+            overflow: hidden;
+            padding-bottom: calc(50% / (var(--ratio)));
+        }
+
+        .new_menu_work {
+            padding: 0px 30px;
+            text-align: center;
+        }
+
+            .new_menu_work ul li {
+                border: 1px solid #C4C4C450;
+                height: auto;
+                width: 100%;
+                display: flex;
+                
+                justify-content: center;
+            }
+
+            .new_menu_work h3 {
+                font-size: 16px;
+                font-weight: 600;
+                color: #000;
+                background: #fff;
+                padding: 10px;
+                position: relative;
+                top: 21px;
+                z-index: 1;
+                display: inline-block;
+            }
+
+            .new_menu_work ul li .box img {
+                object-fit: contain;
+                width: 146px;
+                height: 141px;
+            }
+
+            .new_menu_work .box h4 {
+                font-size: 13px;
+                font-weight: normal;
+            }
+    </style>
+</head>
+
+<body>
+    <form id="form1" runat="server">
+        <asp:ScriptManager ID="ScriptManager1" runat="server" ScriptMode="Release">
+            <CompositeScript>
+                <Scripts>
+                    <asp:ScriptReference Name="MicrosoftAjax.js" />
+                    <asp:ScriptReference Name="MicrosoftAjaxWebForms.js" />
+                    <asp:ScriptReference Name="Common.Common.js" Assembly="AjaxControlToolkit" />
+                </Scripts>
+            </CompositeScript>
+        </asp:ScriptManager>
+        <header class="d-flex justify-content-between align-items-center w-100 inner-header">
+            <div class="logo">
+                <a href="/">
+                    <figure>
+                        <img src="/images/inner-logo.png" alt="logo" class="">
+                    </figure>
+                </a>
+            </div>
+            <uc1:mainmenu ID="mainmenu1" runat="server" />
+        </header>
+        <div class="breadcrumb bg-white" id="panelbreadcrumb" runat="server">
+            <div class="container-lg">
+                <uc4:breadcrumbs ID="breadcrumbs1" runat="server" />
+            </div>
+        </div>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        </asp:ContentPlaceHolder>
+        <uc2:footer ID="footer1" runat="server" />
+
+        <script src="/js/jquery.js"></script>
+        <script src="/js/aos.js"></script>
+        <script src="/js/owl.carousel.min.js"></script>
+        <script src="/js/fancybox.js"></script>
+        <script src="/js/fancy-common.js"></script>
+        <script src="/js/bootstrap.js"></script>
+        <script src="/js/slick.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.4.0/gsap.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.3.3/ScrollTrigger.min.js"></script>
+
+
+        <script src="/js/main.js"></script>
+
+
+    </form>
+</body>
+</html>
